@@ -1213,3 +1213,5 @@ tagsInput.run(["$templateCache", function($templateCache) {
 }]);
 
 }());
+
+module.exports = angular.module('ngTagsInput').name;
